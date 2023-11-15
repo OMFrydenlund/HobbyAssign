@@ -11,7 +11,7 @@ namespace HobbyAssign
 
             string[] hobbyArray = { "gamer", "diver", "clown", "randomHobby4", "randomHobby5" };
 
-            Random Rand = new Random();
+            Random somethingRandom = new Random();
         }
     }
 }
